@@ -18,7 +18,7 @@ TDD只是一种开发模式，我们会用到以下技术。
 
 * [JUnit](http://www.testclass.net/junit/) ： Java 主流单元测试框架，当然，你选择 [TestNG](http://www.testclass.net/testng/) 也是完全可以的。
 
-* Gradle : 构建工具。
+* Gradle : 构建工具。[配置](https://docs.gradle.org/current/userguide/jacoco_plugin.html)
 
 #### 声明：
 

@@ -2,7 +2,7 @@ group 'org.tdd.sample'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
-apply plugin: "jacoco"  //
+apply plugin: "jacoco"  //Jacoco 插件
 
 sourceCompatibility = 1.8
 
